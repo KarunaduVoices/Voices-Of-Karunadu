@@ -142,11 +142,11 @@ Unzip (if needed) and transfer the `.pth` and `.index` files to a new folder in 
 The directory structure should look something like this:
 ```
 ├── rvc_models
-│   ├── John
-│   │   ├── JohnV2.pth
+│   ├── Darshan
+│   │   ├── DarshanV2.pth
 │   │   └── added_IVF2237_Flat_nprobe_1_v2.index
-│   ├── May
-│   │   ├── May.pth
+│   ├── Sudeep
+│   │   ├── Sudeep.pth
 │   │   └── added_IVF2237_Flat_nprobe_1_v2.index
 │   ├── MODELS.txt
 │   └── hubert_base.pt
