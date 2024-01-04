@@ -20,8 +20,8 @@ Follow these instructions to set up the project on your local machine and begin 
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/ai-voices-of-actor.git`
-2. Change into the project directory: `cd ai-voices-of-actor`
+1. Clone the repository: `git clone https://github.com/KarunaduVoices/Voices-Of-Karunadu.git`
+2. Change into the project directory: `Voices-Of-Karunadu.git`
 3. Install dependencies: `pip install -r requirements.txt`
 
 ### Usage
