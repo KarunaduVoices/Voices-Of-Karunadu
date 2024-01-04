@@ -10,7 +10,7 @@ Before you start contributing, please take a moment to read our [Code of Conduct
 
 ### Reporting Bugs
 
-If you find a bug, please open an issue on our [issue tracker](https://github.com/your-username/your-project-name/issues) and provide detailed information about how to reproduce the issue.
+If you find a bug, please open an issue on our [issue tracker](https://github.com/your-username/Voices-Of-Karunadu/issues) and provide detailed information about how to reproduce the issue.
 
 ### Suggesting Enhancements
 
