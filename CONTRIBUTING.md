@@ -21,9 +21,9 @@ If you have ideas for enhancements, feel free to open an issue with the label "e
 We welcome pull requests for bug fixes and enhancements. Before submitting a pull request, please:
 
 1. Fork the repository.
-2. Create a new branch for your changes: `git checkout -b feature/your-feature-name`.
+2. Create a new branch for your changes: `git checkout -b feature/Voices-Of-Karunadu`.
 3. Make your changes and commit them with a descriptive commit message.
-4. Push your branch to your fork: `git push origin feature/your-feature-name`.
+4. Push your branch to your fork: `git push origin feature/Voices-Of-Karunadu`.
 5. Submit a pull request, explaining the changes you made and any additional context.
 
 ## Code Style
