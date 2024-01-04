@@ -36,7 +36,7 @@ Ensure that your changes do not break existing functionality and, if applicable,
 
 ## License
 
-By contributing to Voices Of Karunadu, you agree that your contributions will be licensed under the [LICENSE](LICENSE.md).
+By contributing to Voices Of Karunadu, you agree that your contributions will be licensed under the [LICENSE](LICENSE).
 
 ## Acknowledgements
 
