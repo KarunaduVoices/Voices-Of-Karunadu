@@ -23,15 +23,35 @@ Follow these instructions to set up the project on your local machine and begin 
 2. Change into the project directory: `cd Voices-Of-Karunadu`
 3. Install dependencies: `pip install -r requirements.txt`
 
-### Usage
+# Language Models
+List the languages or dialects within Karunadu for which voice models have been created. Provide information on how users can access and use each language model.
 
-Provide examples and instructions on how to use the Voices of Karunadu system.
+# Kannada
 
-```python
-# Example code snippet
-from karunadu_voice_synthesis import KarunaduVoiceSynthesizer
+Model: [Link to Kannada model]
+Usage: language="Kannada"
+Tulu
 
-synthesizer = KarunaduVoiceSynthesizer(language="Kannada")
-text = "ಕರುಣಾಡು ಧನ್ಯವಾದಗಳು!"
-audio = synthesizer.synthesize(text)
-audio.play()
+Model: [Link to Tulu model]
+Usage: language="Tulu"
+
+# Customization
+Explain how users can customize or fine-tune voice models based on specific languages, dialects, or cultural contexts within Karunadu.
+
+# Contributing
+We welcome contributions! Follow these steps to contribute to the project:
+
+# Fork the repository.
+Create a new branch: git checkout -b feature/new-feature.
+Make your changes and commit them: git commit -m 'Add new feature'.
+Push to the branch: git push origin feature/new-feature.
+Open a pull request.
+
+# License
+This project is licensed under the [Your License] - see the LICENSE.md file for details.
+
+# Acknowledgments
+Mention any credits or inspirations for your project.
+If applicable, acknowledge any third-party libraries or resources used.
+
+
