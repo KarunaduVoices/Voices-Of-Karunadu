@@ -60,7 +60,7 @@ Open a command line window and run these commands to clone this entire repositor
 2. Change into the project directory: `cd Voices-Of-Karunadu`
 3. Install dependencies: `pip install -r requirements.txt`
 
-### Download required models
+### Download HaaggingFace model models
 
 Run the following command to download the required MDXNET vocal separation models and hubert base model.
 
