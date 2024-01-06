@@ -50,11 +50,7 @@ Open a command line window and run these commands to clone this entire repositor
 
 ### Download HaaggingFace models
 
-Run the following command to download the required MDXNET vocal separation models and hubert base model.
-
-```
-python src/download_models.py
-```
+Install RVC beta Using the Following Link https://huggingface.co/lj1995/VoiceConversionWebUI/tree/main
 
 ### Install 7-zip
 
