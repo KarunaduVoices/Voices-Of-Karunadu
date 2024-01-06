@@ -40,7 +40,7 @@ Follow these instructions to set up the project on your local machine and begin 
 Follow the instructions [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to install Git on your computer. Also follow this [guide](https://realpython.com/installing-python/) to install Python **VERSION 3.9** if you haven't already. Using other versions of Python may result in dependency conflicts.
 
 
-### Clone AICoverGen repository
+### Clone Voices of Karunadu repository
 
 Open a command line window and run these commands to clone this entire repository and install the additional dependencies required.
 
@@ -48,7 +48,7 @@ Open a command line window and run these commands to clone this entire repositor
 2. Change into the project directory: `cd Voices-Of-Karunadu`
 3. Install dependencies: `pip install -r requirements.txt`
 
-### Download HaaggingFace model models
+### Download HaaggingFace models
 
 Run the following command to download the required MDXNET vocal separation models and hubert base model.
 
@@ -71,11 +71,11 @@ python src/download_models.py
   	- Follow the on-screen instructions in the setup wizard.
    - You can generally leave the default options selected unless you have specific preferences.
 
-6.	Finish Installation:
-•	Complete the installation process by clicking "Install" or "Finish" when prompted.
+4.	Finish Installation:
+   - Complete the installation process by clicking "Install" or "Finish" when prompted.
 
-7.	Verify Installation:
-•	After installation, you can verify that 7-Zip is installed by right-clicking on a file or folder. You should see 7-Zip options in the context menu.
+5.	Verify Installation:
+   - After installation, you can verify that 7-Zip is installed by right-clicking on a file or folder. You should see 7-Zip options in the context menu.
 
 
 ## Usage with WebUI
