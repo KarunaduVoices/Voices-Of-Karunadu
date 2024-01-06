@@ -51,7 +51,7 @@ Open a command line window and run these commands to clone this entire repositor
 ### Download HaaggingFace models
 
 Install RVC beta Using the Following Link https://huggingface.co/lj1995/VoiceConversionWebUI/tree/main
-- Note:- Don not Download the latest version use beta version which 5.19 GB
+- Note:- Do not download the latest version use the beta version which is 5.19 GB
 
 ### Install 7-zip
 
