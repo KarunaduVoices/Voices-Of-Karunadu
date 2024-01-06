@@ -68,6 +68,25 @@ Run the following command to download the required MDXNET vocal separation model
 python src/download_models.py
 ```
 
+### Install 7z
+
+Visit the official 7-Zip website at (https://www.7-zip.org/)
+Navigate to the "Download" section.
+Download the version suitable for your Windows architecture (32-bit or 64-bit).
+Run the Installer:
+
+Once the download is complete, locate the installer file (usually named something like 7zXXXX.exe where XXXX is the version number).
+Install 7-Zip:
+
+Double-click on the installer file to run it.
+Follow the on-screen instructions in the setup wizard.
+You can generally leave the default options selected unless you have specific preferences.
+Finish Installation:
+
+Complete the installation process by clicking "Install" or "Finish" when prompted.
+Verify Installation:
+
+After installation, you can verify that 7-Zip is installed by right-clicking on a file or folder. You should see 7-Zip options in the context menu.
 
 ## Usage with WebUI
 
