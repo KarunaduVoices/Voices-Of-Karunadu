@@ -32,18 +32,6 @@ Follow these instructions to set up the project on your local machine and begin 
 - Pitch change for vocals and instrumentals together. Same effect as changing key of song in Karaoke.
 - Audio output format option: wav or mp3.
 
-## Update AICoverGen to latest version
-
-Install and pull any new requirements and changes by opening a command line window in the `AICoverGen` directory and running the following commands.
-
-```
-pip install -r requirements.txt
-git pull
-```
-
-For colab users, simply click `Runtime` in the top navigation bar of the colab notebook and `Disconnect and delete runtime` in the dropdown menu. 
-Then follow the instructions in the notebook to run the webui.
-
 
 ## Setup
 
