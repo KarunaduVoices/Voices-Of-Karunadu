@@ -13,13 +13,6 @@ Voices of Karunadu is a unique project that harnesses artificial intelligence to
 
 Follow these instructions to set up the project on your local machine and begin exploring the Voices of Karunadu.
 
-
-### Installation
-
-1. Clone the repository: `git clone https://github.com/KarunaduVoices/Voices-Of-Karunadu.git`
-2. Change into the project directory: `cd Voices-Of-Karunadu`
-3. Install dependencies: `pip install -r requirements.txt`
-
 ## Changelog
 
 - WebUI for easier conversions and downloading of voice models
@@ -70,11 +63,9 @@ Follow the instructions [here](https://www.tutorialexample.com/a-step-guide-to-i
 
 Open a command line window and run these commands to clone this entire repository and install the additional dependencies required.
 
-```
-git clone https://github.com/SociallyIneptWeeb/AICoverGen
-cd AICoverGen
-pip install -r requirements.txt
-```
+1. Clone the repository: `git clone https://github.com/KarunaduVoices/Voices-Of-Karunadu.git`
+2. Change into the project directory: `cd Voices-Of-Karunadu`
+3. Install dependencies: `pip install -r requirements.txt`
 
 ### Download required models
 
