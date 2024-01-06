@@ -71,23 +71,22 @@ python src/download_models.py
 ### Install 7-zip
 
 1.	Download 7-Zip:
-   
-•	Visit the official 7-Zip website at (https://www.7-zip.org/)
-•	Navigate to the "Download" section.
-•	Download the version suitable for your Windows architecture (32-bit or 64-bit)
+   - Visit the official 7-Zip website at (https://www.7-zip.org/)
+   - Navigate to the "Download" section.
+   - Download the version suitable for your Windows architecture (32-bit or 64-bit)
 
 2.	Run the Installer:
-•	Once the download is complete, locate the installer file (usually named something like 7zXXXX.exe where XXXX is the version number).
+   - Once the download is complete, locate the installer file (usually named something like 7zXXXX.exe where XXXX is the version number).
 
 3.	Install 7-Zip:
-•	Double-click on the installer file to run it.
-•	Follow the on-screen instructions in the setup wizard.
-•	You can generally leave the default options selected unless you have specific preferences.
+   - Double-click on the installer file to run it.
+  	- Follow the on-screen instructions in the setup wizard.
+   - You can generally leave the default options selected unless you have specific preferences.
 
-4.	Finish Installation:
+6.	Finish Installation:
 •	Complete the installation process by clicking "Install" or "Finish" when prompted.
 
-5.	Verify Installation:
+7.	Verify Installation:
 •	After installation, you can verify that 7-Zip is installed by right-clicking on a file or folder. You should see 7-Zip options in the context menu.
 
 
