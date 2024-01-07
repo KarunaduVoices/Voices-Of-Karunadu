@@ -74,6 +74,10 @@ Install RVC beta using the following link https://huggingface.co/lj1995/VoiceCon
 5.	Verify Installation:
    - After installation, you can verify that 7-Zip is installed by right-clicking on a file or folder. You should see 7-Zip options in the context menu.
 
+##  How to Train the Model?
+To train the models follow the instructions in the Google Colab and click the link below.
+
+
 
 ## Usage with WebUI
 
