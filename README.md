@@ -48,15 +48,15 @@ Open a command line window and run these commands to clone this entire repositor
 2. Change into the project directory: `cd Voices-Of-Karunadu`
 3. Install dependencies: `pip install -r requirements.txt`
 
-### Download HaaggingFace models
+### Download Huggingface model
 
-Install RVC beta Using the Following Link https://huggingface.co/lj1995/VoiceConversionWebUI/tree/main
-- Note:- Do not download the latest version use the beta version which is 5.19 GB
+Install RVC beta using the following link https://huggingface.co/lj1995/VoiceConversionWebUI/tree/main
+- Note:- Do not download the latest version, use the RVC-beta.7z for the fast usage.
 
 ### Install 7-zip
 
 1.	Download 7-Zip:
-   - Visit the official 7-Zip website at https://www.7-zip.org/
+   - Visit the official 7-Zip website at https://www.7-zip.org
    - Navigate to the "Download" section.
    - Download the version suitable for your Windows architecture (32-bit or 64-bit)
 
