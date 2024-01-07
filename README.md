@@ -77,7 +77,7 @@ Install RVC beta using the following link https://huggingface.co/lj1995/VoiceCon
 ##  How to Train the Model?
 To train the models follow the instructions in the Google Colab and click the link below.
 
-<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/github/KarunaduVoices/Voices-Of-Karunadu/blob/main/Voices%20Of%20Karunadu.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/KarunaduVoices/Voices-Of-Karunadu/blob/main/Voices%20Of%20Karunadu.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
