@@ -56,7 +56,7 @@ Install RVC beta Using the Following Link https://huggingface.co/lj1995/VoiceCon
 ### Install 7-zip
 
 1.	Download 7-Zip:
-   - Visit the official 7-Zip website at (https://www.7-zip.org/)
+   - Visit the official 7-Zip website at https://www.7-zip.org/
    - Navigate to the "Download" section.
    - Download the version suitable for your Windows architecture (32-bit or 64-bit)
 
@@ -77,7 +77,7 @@ Install RVC beta Using the Following Link https://huggingface.co/lj1995/VoiceCon
 
 ## Usage with WebUI
 
-To run the AICoverGen WebUI, run the following command.
+To run the Voices of Karunadu WebUI, run the following command.
 
 ```
 python src/webui.py
