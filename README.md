@@ -90,7 +90,7 @@ Install RVC beta using the following link https://huggingface.co/lj1995/VoiceCon
 - Copy and paste the trained model to the extracted file `.pth` file to Weights and the `.index` file to the logs directory.
 
 
-The directory structure should look something like this:
+The directory structure look something like this:
 ```
 ├── Voices of Karunadu
 │   ├── Darshan
@@ -105,7 +105,7 @@ The directory structure should look something like this:
 ├── song_output
 └── src
  ```
-### Running the Gradio via WebUI
+### Cloaning the voice from the Gradio via WebUI
 
 ![](images/webui_generate.png?raw=true)
 
