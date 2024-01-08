@@ -82,13 +82,28 @@ Install RVC beta using the following link https://huggingface.co/lj1995/VoiceCon
 4. Wait until the system cmd links to GPU
 5. Gradio interface will be poped from your default browser 
 
-##  How to Train the Model?
-To train the models follow the steps in the Google Colab and click the link below.
+### Running the Gradio via WebUI
 
-<a target="_blank" href="https://colab.research.google.com/github/KarunaduVoices/Voices-Of-Karunadu/blob/main/Voices%20Of%20Karunadu.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+- Open the model from the Voices of Karunadu Excel sheet.
+- Unzip and transfer the `.pth` and `.index` files to the weights and logs directory. Each folder should contain one `.pth` and one `.index` file.
+- Copy and paste the trained model to the extracted file `.pth` file to Weights and the `.index` file to the logs directory.
 
+
+The directory structure should look something like this:
+```
+├── Voices of Karunadu
+│   ├── Darshan
+│   │   ├── DarshanV2.pth
+│   │   └── added_IVF2237_Flat_nprobe_1_v2.index
+│   ├── Sudeep
+│   │   ├── Sudeep.pth
+│   │   └── added_IVF2237_Flat_nprobe_1_v2.index
+│   ├── MODELS.txt
+│   └── hubert_base.pt
+├── mdxnet_models
+├── song_output
+└── src
+ ```
 ### Running the Gradio via WebUI
 
 ![](images/webui_generate.png?raw=true)
@@ -199,6 +214,13 @@ python src/main.py [-h] -i SONG_INPUT -dir RVC_DIRNAME -p PITCH_CHANGE [-k | --k
 | `-rdamp REVERB_DAMPING`                    | Optional. Default 0.7. Absorption of high frequencies in the reverb. 0 <= REVERB_DAMPING <= 1. |
 | `-oformat OUTPUT_FORMAT`                   | Optional. Default mp3. wav for best quality and large file size, mp3 for decent quality and small file size. |
 
+
+##  How to Train the Model?
+To train the models follow the steps in the Google Colab and click the link below.
+
+<a target="_blank" href="https://colab.research.google.com/github/KarunaduVoices/Voices-Of-Karunadu/blob/main/Voices%20Of%20Karunadu.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Terms of Use
 
