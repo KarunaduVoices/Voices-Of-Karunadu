@@ -75,7 +75,7 @@ Install RVC beta using the following link https://huggingface.co/lj1995/VoiceCon
    - After installation, you can verify that 7-Zip is installed by right-clicking on a file or folder. You should see 7-Zip options in the context menu.
 
 ##  How to Train the Model?
-To train the models follow the instructions in the Google Colab and click the link below.
+To train the models follow the steps in the Google Colab and click the link below.
 
 <a target="_blank" href="https://colab.research.google.com/github/KarunaduVoices/Voices-Of-Karunadu/blob/main/Voices%20Of%20Karunadu.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
