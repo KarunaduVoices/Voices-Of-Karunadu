@@ -51,7 +51,7 @@ Open a command line window and run these commands to clone this entire repositor
 
 ### Download the Huggingface model
 
-Install RVC beta using the following link https://huggingface.co/lj1995/VoiceConversionWebUI/tree/main
+Install the RVC beta using the following link https://huggingface.co/lj1995/VoiceConversionWebUI/tree/main
 - Note:- Do not download the latest version, use the `RVC-beta.7z` for fast usage.
 
 ### Install 7-zip
@@ -107,15 +107,21 @@ The directory structure looks something like this:
 ├── song_output
 └── src
  ```
-### Cloaning the voice from the Gradio via WebUI
 
-![](images/webui_generate.png?raw=true)
+### Steps to Clone the voice from the Gradio via WebUI
 
-- From the Voice Models dropdown menu, select the voice model to use. Click `Update` if you added the files manually to the [rvc_models](rvc_models) directory to refresh the list.
-- In the song input field, copy and paste the link to any song on YouTube or the full path to a local audio file.
-- Pitch should be set to either -12, 0, or 12 depending on the original vocals and the RVC AI modal. This ensures the voice is not *out of tune*.
-- Other advanced options for Voice conversion and audio mixing can be viewed by clicking the accordion arrow to expand.
+- Click on the Model Interface.
+- Select the voices from `.pth` that you want to clone from Inferencing Voice.
+- Select the same index model that is Automatically detected from the index path and select from the dropdown
+- Recommended +12 key for male-to-female conversion and -12 key for female-to-male conversion. If the sound range goes too far and the voice is distorted, you can 
+  also adjust it to the appropriate range by yourself.
+- Enter the path of the audio file to be processed (default is the correct format example)
+- Select the pitch extraction algorithm ('pm': faster extraction but lower-quality speech; 'harvest': better bass but extremely slow; 'crepe': better quality but 
+  GPU intensive)
+- Drop the File or Click on Upload to convert the voice
+- Refresh the voice list and index path when you upload new `.pth` and `.index ` files
 
+  
 ## Usage with WebUI
 
 To run the Voices of Karunadu WebUI, run the following command.
