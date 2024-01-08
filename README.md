@@ -48,7 +48,7 @@ Open a command line window and run these commands to clone this entire repositor
 2. Change into the project directory: `cd Voices-Of-Karunadu`
 3. Install dependencies: `pip install -r requirements.txt`
 
-### Download Huggingface model
+### Download the Huggingface model
 
 Install RVC beta using the following link https://huggingface.co/lj1995/VoiceConversionWebUI/tree/main
 - Note:- Do not download the latest version, use the `RVC-beta.7z` for fast usage.
@@ -73,6 +73,13 @@ Install RVC beta using the following link https://huggingface.co/lj1995/VoiceCon
 
 5.	Verify Installation:
    - After installation, you can verify that 7-Zip is installed by right-clicking on a file or folder. You should see 7-Zip options in the context menu.
+     
+##  Installation of a Huggingface model
+1. Go to the Extracted folder of the RVC model
+2. Search for the `go-web`(bat extension)
+3. Double-click on the `go-web` file  and run it.
+4. Wait until the system cmd links to GPU
+5. Gradio interface will be poped from your default browser 
 
 ##  How to Train the Model?
 To train the models follow the steps in the Google Colab and click the link below.
