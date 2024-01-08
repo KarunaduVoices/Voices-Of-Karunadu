@@ -40,7 +40,7 @@ Follow these instructions to set up the project on your local machine and begin 
 Follow the instructions [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to install Git on your computer. Also follow this [guide](https://realpython.com/installing-python/) to install Python **VERSION 3.9** if you haven't already. Using other versions of Python may result in dependency conflicts.
 
 
-### Clone Voices of Karunadu repository
+### Clone Voices of ಕರುನಾಡು repository
 
 Open a command line window and run these commands to clone this entire repository and install the additional dependencies required.
 
