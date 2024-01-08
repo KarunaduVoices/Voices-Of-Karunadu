@@ -1,4 +1,4 @@
-# Voices of Karunadu
+# Voices of ಕರುನಾಡು
 ## Overview
 
 Voices of Karunadu is a unique project that harnesses artificial intelligence to replicate voices representative of the rich linguistic and cultural diversity of the Karunadu region. This initiative aims to provide a platform for synthesizing voices that capture the essence of Karunadu's various languages, dialects, and cultural nuances.
