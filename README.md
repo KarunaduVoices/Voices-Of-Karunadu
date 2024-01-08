@@ -76,11 +76,12 @@ Install RVC beta using the following link https://huggingface.co/lj1995/VoiceCon
    - After installation, you can verify that 7-Zip is installed by right-clicking on a file or folder. You should see 7-Zip options in the context menu.
      
 ##  Installation of a Huggingface model
-1. Go to the Extracted folder of the RVC model
-2. Search for the `go-web`(bat extension)
-3. Double-click on the `go-web` file  and run it.
-4. Wait until the system cmd links to GPU
-5. Gradio interface will be poped from your default browser 
+1. Unzip the model using 7-zip.
+2. Go to the Extracted folder of the RVC model.
+3. Search for the `go-web`(bat extension).
+4. Double-click on the `go-web` file  and run it.
+5. Wait until the system cmd links to GPU(The speed depends upon on your GPU)
+6. Gradio interface with the [localhost](http://localhost:7897/) will be poped from your default browser.
 
 ### Running the Gradio via WebUI
 
