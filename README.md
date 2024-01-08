@@ -83,6 +83,8 @@ Install RVC beta using the following link https://huggingface.co/lj1995/VoiceCon
 5. Wait until the system cmd links to GPU(The speed depends upon on your GPU)
 6. Gradio interface with the [localhost](http://localhost:7897/) will be poped from your default browser.
 
+![gradio](https://github.com/KarunaduVoices/Voices-Of-Karunadu/assets/154655527/fe6b18f0-cd37-49d2-a299-27817d57aa44)
+
 ### Running the Gradio via WebUI
 
 - Open the model from the Voices of Karunadu Excel sheet.
@@ -90,7 +92,7 @@ Install RVC beta using the following link https://huggingface.co/lj1995/VoiceCon
 - Copy and paste the trained model to the extracted file `.pth` file to Weights and the `.index` file to the logs directory.
 
 
-The directory structure look something like this:
+The directory structure looks something like this:
 ```
 ├── Voices of Karunadu
 │   ├── Darshan
