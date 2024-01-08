@@ -5,9 +5,9 @@ Voices of Karunadu is a unique project that harnesses artificial intelligence to
 
 ## Features
 
-- **Regional Voice Synthesis:** Generate synthetic voices reflecting the linguistic diversity of Karunadu.
+- **Regional Voice Synthesis:** Generate synthetic voices reflecting the linguistic diversity of ಕರುನಾಡು.
 - **Cultural Nuances:** Capture the unique cultural elements in voice synthesis for a more authentic experience.
-- **Customizable:** Adapt the voice models to specific languages, dialects, or cultural contexts within Karunadu.
+- **Customizable:** Adapt the voice models to specific languages, dialects, or cultural contexts within ಕರುನಾಡು.
 
 ## Getting Started
 
