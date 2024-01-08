@@ -11,7 +11,8 @@ Voices of Karunadu is a unique project that harnesses artificial intelligence to
 
 ## Getting Started
 
-Follow these instructions to set up the project on your local machine and begin exploring the Voices of Karunadu.
+Follow these instructions to set up the project on your local machine and begin exploring the Voices of ಕರುನಾಡು.
+
 
 ## Changelog
 
@@ -87,6 +88,15 @@ To train the models follow the steps in the Google Colab and click the link belo
 <a target="_blank" href="https://colab.research.google.com/github/KarunaduVoices/Voices-Of-Karunadu/blob/main/Voices%20Of%20Karunadu.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+### Running the Gradio via WebUI
+
+![](images/webui_generate.png?raw=true)
+
+- From the Voice Models dropdown menu, select the voice model to use. Click `Update` if you added the files manually to the [rvc_models](rvc_models) directory to refresh the list.
+- In the song input field, copy and paste the link to any song on YouTube or the full path to a local audio file.
+- Pitch should be set to either -12, 0, or 12 depending on the original vocals and the RVC AI modal. This ensures the voice is not *out of tune*.
+- Other advanced options for Voice conversion and audio mixing can be viewed by clicking the accordion arrow to expand.
 
 ## Usage with WebUI
 
