@@ -1,4 +1,4 @@
-# Voices of ಕರುನಾಡು
+# Voices of ಕರುನಾಡು 👋
 ## Overview
 
 Voices of Karunadu is a unique project that harnesses artificial intelligence to replicate voices representative of the rich linguistic and cultural diversity of the Karunadu region. This initiative aims to provide a platform for synthesizing voices that capture the essence of Karunadu's various languages, dialects, and cultural nuances.
@@ -121,6 +121,23 @@ The directory structure looks something like this:
 - Drop the File or Click on Upload to convert the voice
 - Refresh the voice list and index path when you upload new `.pth` and `.index ` files
 
+## Install the Audacity
+
+1. Download Audacity:
+Visit the official Audacity website: [Audacity Download Page.](https://www.audacityteam.org/download/)
+Click on the download link for the Windows version.
+
+3. Install Audacity:
+Once the download is complete, open the installer.
+Follow the on-screen instructions to install Audacity.
+You may be prompted to install additional components; follow the prompts as necessary.
+
+4. Launch Audacity:
+After the installation is complete, you can launch Audacity from the desktop shortcut or the Start menu.
+
+## How to Split the audio and remove the noise from the voices?
+Watch the video and follow the instructions from YouTube https://youtu.be/yzJ2VyYkmaA
+
 
 ##  How to Train the Model?
 To train the models follow the steps in the Google Colab and click the link below.
@@ -128,6 +145,18 @@ To train the models follow the steps in the Google Colab and click the link belo
 <a target="_blank" href="https://colab.research.google.com/github/KarunaduVoices/Voices-Of-Karunadu/blob/main/Voices%20Of%20Karunadu.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+##  Steps to Train the Model?
+1. Follow the instructions correctly in the Google Colab of Voices of ಕರುನಾಡು
+2. Install and connect the Google Colab to your Google Drive(for Resuming Training and Automatic Saving).
+3. Connect and change the run type to T4- GPU. (Ignore if the settings are the same).
+4. Upload all the audio to the drive and give the same dataset name to Preprocess Data.
+5. Run the `Extract Features` and `Train Index` from the Google Colab.
+6. Create your ngrok authtoken to open tensorboard. Get one here: https://dashboard.ngrok.com/get-started/your-authtoken
+7. Choose the `save frequency` as 50 and epochs as 500.
+- Note:- What Is Epoch? 
+  An epoch is when all the training data is used at once and is defined as the total number of iterations of all the training data in one cycle for training the machine learning model.
+  (So keep the epochs low to save the time to train the model)
 
 ## Terms of Use
 
